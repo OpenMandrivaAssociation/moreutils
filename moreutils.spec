@@ -10,6 +10,7 @@ License:	GPL-2.0
 Group:		System/Utils
 BuildRequires:	make
 BuildRequires:  docbook2x
+BuildRequires:  docbook-to-man  
 
 %description
 moreutils is a collection of the unix tools that nobody thought to write long
