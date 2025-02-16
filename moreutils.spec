@@ -10,6 +10,7 @@ License:	GPL-2.0
 Group:		System/Utils
 BuildRequires:	make
 BuildRequires:  docbook-dtd41-sgml
+BuildRequires:  docbook-dtd44-xml
 BuildRequires:  docbook-dtd45-xml
 BuildRequires:  docbook-style-xsl
 BuildRequires:  docbook2x
