@@ -3,7 +3,7 @@
 Name:		moreutils
 Version:	0.70
 Release:	1
-Source0:    https://git.joeyh.name/index.cgi/moreutils.git/snapshot/%{name}-%{version}.tar.gz
+Source0:	https://git.joeyh.name/index.cgi/moreutils.git/snapshot/%{name}-%{version}.tar.gz
 Summary:	A collection of the unix tools that nobody thought to write
 URL:		https://joeyh.name/code/moreutils/
 License:	GPL-2.0
@@ -37,5 +37,4 @@ ago when unix was young.
 %doc        README
 %license    COPYING
 %{_bindir}/*
-%{_mandir}/man1/*.zst
-
+%{_mandir}/man1/*.1*
